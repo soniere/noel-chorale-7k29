@@ -1,0 +1,24 @@
+CHANTS DE NOËL — VERSION AVEC LES 4 MORCEAUX
+
+ORDRE DES MORCEAUX
+1. Bons Baisers de Fort de France
+2. Le Ptit Quinquin
+3. Les Corons
+4. Les Rois Mages
+
+MISE EN LIGNE (GitHub Pages)
+1. Décompressez ce ZIP sur votre ordinateur.
+2. Créez un dépôt GitHub public (attention : les MP3 seront publiquement accessibles).
+3. Envoyez le CONTENU du dossier chants-noel à la racine du dépôt.
+4. Dans Settings > Pages, sélectionnez Deploy from a branch, main, /(root).
+5. Ouvrez l'URL HTTPS sur Android dans Chrome.
+6. Dans le menu Chrome, sélectionnez Installer l'application ou Ajouter à l'écran d'accueil.
+7. Dans l'application, cliquez sur « Enregistrer les chants pour le mode hors ligne ».
+8. Attendez « Tous les chants sont disponibles hors connexion ».
+9. Testez les quatre morceaux en mode avion, après avoir fermé puis rouvert l'application.
+
+IMPORTANT : le bouton « Télécharger les MP3 dans Android » propose des liens de téléchargement INDIVIDUELS dans le dossier Téléchargements, en plus du cache hors ligne de l'application. Ces copies Android ne sont pas la source audio du lecteur. Le cache peut être supprimé par Android : retestez avant la représentation.
+
+DROITS : ne publiez pas ces MP3 sur un hébergement public sans autorisation de diffusion. Si les droits ne sont pas acquis, privilégiez un hébergement privé autorisé ou un lecteur local.
+
+CONTRÔLES : fin de piste = arrêt. Suivant sélectionne seulement la piste suivante. Lecture démarre le morceau sélectionné.
